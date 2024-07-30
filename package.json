@@ -1,5 +1,5 @@
 {
-  "name": "com.trilitech.social-login-web-client",
+  "name": "web-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
