@@ -1,6 +1,6 @@
 **Running the web-client**
 
-1. In the `web-client` folder, run:
+1. In the `social-login-web-client` folder, run:
 ```bash
 yarn
 ```
